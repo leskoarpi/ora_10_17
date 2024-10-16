@@ -1,0 +1,28 @@
+Egy data.json fájlban található 
+
+
+1. Feladat: Egyszerű JSON fájl olvasása
+ Olvasd be ezt a JSON fájlt, és írasd ki a képernyőre az összes személy nevét és életkorát!
+
+
+2. Feladat: JSON fájl írása Python objektumból
+Készíts egy Python listát, amely tartalmaz több autó információit (márka, modell, évjárat). Alakítsd ezt a listát JSON formátumba, és mentsd el egy
+
+
+cars = [
+    {"brand": "Toyota", "model": "Corolla", "year": 2018},
+    {"brand": "Honda", "model": "Civic", "year": 2020},
+    {"brand": "Ford", "model": "Mustang", "year": 2021}
+]
+
+
+
+3. Feladat: JSON adatokat tartalmazó API lekérdezése (fiktív API)
+Készíts egy Python szkriptet, amely lekérdez egy fiktív API-t
+Szimuláld az API választ egy Python szótárban, és írasd ki az időjárási információkat a képernyőre!
+
+api_response = {
+    "weather": "sunny",
+    "temperature": 25,
+    "city": "Budapest"
+}

@@ -1,0 +1,19 @@
+1. Feladat: Osztás nullával
+	Leírás: Írj egy programot, amely két számot kér be a felhasználótól, és elvégzi a második szám osztását az elsővel. Ha a második szám nullával egyenlő, a program ne omoljon 	össze, hanem írjon ki egy hibaüzenetet, hogy nullával nem lehet osztani.
+
+	Használd a try-except blokkot a ZeroDivisionError hibára.
+
+
+2. Feladat: Helytelen adattípus
+	Leírás: Készíts egy programot, amely egy számot kér be a felhasználótól, és kiírja annak négyzetét. Ha a felhasználó nem számot ad meg, a program figyelmeztessen, hogy 	helytelen adattípust adott meg.
+
+
+
+
+3. Feladat: Fájl olvasása
+	Leírás: Írj egy programot, amely megpróbál megnyitni és beolvasni egy data.txt nevű fájlt. Ha a fájl nem található, a program írja ki, hogy a fájl nem létezik.
+
+
+
+4. Feladat: Lista elem lekérése index alapján
+	Leírás: Készíts egy programot, amely egy listából kér le elemeket egy megadott index alapján. Kérj be egy indexet a felhasználótól, és próbáld meg kiolvasni az adott indexű 	elemet a listából. Ha az index kívül esik a lista határain, kezelje a program a hibát.

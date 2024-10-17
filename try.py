@@ -47,4 +47,4 @@ def lista_elem_lekeres():
         print("Hiba: az index hataron kivuli eset.")
     
     except ValueError:
-        print("Hiba: ervenytelen szamot adj meg puszi")
+        print("Hiba: ervenytelen szamot adj meg, puszi")

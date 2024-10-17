@@ -15,9 +15,7 @@ cars = [
 
 
 with open('newdata.json', 'w') as file:
-    data = json.dumps(cars)
-    file.write(data)
-    file.close()
+    json.dump(cars, file, indent=4)
     
 #haromadikk
 
